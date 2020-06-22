@@ -3,11 +3,11 @@ Artist recommendation is based on the Dataset 30Music:[http://recsys.deib.polimi
 
 Specifically, the dataset by "session", "persons", "user" and "track". Files "session" and "track" have been transferred to "id positive" and "id negative" artist recommendation and used with "persons" dataset for recommendation and with "users" dataset for additionally predictions.
 
-Final dataset you can download by the link:[]
+Final dataset you can download by the link:[https://yadi.sk/d/TDotca6xMA6AZg]
 
 Artist recommendation includes to baseline (KNN) model and advanced (item2vec) ones have been trained by variants hyperparameters. 
 
-Pre-trained models you can download by the link: []
+Pre-trained models you can download by the link: [https://yadi.sk/d/QtOCQ37qvxmqwA]
 
 P.S. Steps description on the RUS.
 
