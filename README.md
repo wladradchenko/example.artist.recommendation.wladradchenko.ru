@@ -7,6 +7,14 @@ Final dataset you can download by the link:[]
 
 Artist recommendation includes to baseline (KNN) model and advanced (item2vec) ones have been trained by variants hyperparameters. 
 
-Trained-models you can download by the link: []
+Pre-trained models you can download by the link: []
 
 P.S. Steps description on the RUS.
+
+P.S.S. Pre-trained models archive is constructed from model knn and item2vec+data+sequence number to compare recall, precision, f1 score: 
+
+Sequence number 01 - item2vec model trained on the dataset with rating 1 to recommend and 0 to non recommend, and hyperparameters size 200, iter 5.
+
+Sequence number 02 - item2vec model trained on the dataset with rating >1 to recommend and 0 to non recommend, and hyperparameters size 200, iter 5. 
+
+Sequence number 03 - item2vec model trained on the dataset with rating >1 to recommend and 0 to non recommend, and hyperparameters size 300, iter 10.
