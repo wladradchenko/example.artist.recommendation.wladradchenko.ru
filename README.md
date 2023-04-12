@@ -1,4 +1,5 @@
-# Artist-Recommendation-KNN-item2vec 
+# Artist Recommendation Code by KNN and Item2vec 
+
 Artist recommendation is based on the Dataset 30Music:[http://recsys.deib.polimi.it/datasets/].
 
 Specifically, the dataset by "session", "persons", "user" and "track". Files "session" and "track" have been transferred to "id positive" and "id negative" artist recommendation and used with "persons" dataset for recommendation and with "users" dataset for additionally predictions.
